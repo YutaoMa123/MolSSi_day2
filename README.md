@@ -1,0 +1,1 @@
+This folder contains file for day 2 of MolSSI summer school.
